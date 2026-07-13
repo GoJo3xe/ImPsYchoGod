@@ -57,11 +57,11 @@ Meow 😻
  </details>  
  <br/> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1dotYT&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="1dotYT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoJo3xe&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="GoJo3xe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1dotYT&theme=gruvbox" alt="1dotYT" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dotYY&theme=onedark" alt="1dotYT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoJo3xe&theme=onedark" alt="GoJo3xe" /></p>
 
 <h3 align="center">Social Links <img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px></h3>
 <p align="center">
@@ -72,9 +72,9 @@ height="50" width="160" alt="https://ko-fi.com/impsycho" />
 
 <a href="https://www.snapchat.com/add/imshinchanpro"> <img align="left" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" height="50" width="160" alt="https://www.snapchat.com/add/imshinchanpro" />
 
-<a href="https://GitHub.com/ImPsYchoGod"> <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50" width="150" alt="https://GitHub.com/ImPsYchoGod" />
+<a href="https://GitHub.com/GoJo3xe"> <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50" width="150" alt="https://GitHub.com/ImPsYchoGod" />
 
-<a href="https://instagram.com/im_psycho"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="250" alt="https://instagram.com/im_psycho" />
+<a href="https://instagram.com/GoJo.3xe"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="250" alt="https://instagram.com/im_psycho" />
 
 
 
