@@ -25,16 +25,6 @@ Meow 😻
   &#8287;&#8287;&#8287;&#8287;&#8287;  
   <a href="http://discord.gg/8dF4kudsWx"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>  
 </p>  
-<p align="center">  <details>   
-   <summary><b>⚡ About me <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=20px></b></summary>   
-   <br/>  hey i am a youtuber I am a Gamer and i win The all games lol it not mean a logic
-
-
-
-<br><br><br>
-<img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1087022267394961408/itachi-itachi-uchiha.gif" width = 250px>
-  <br/>
-
  </details>    
  <br/>   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GoJo3xe&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="GoJo3xe" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1dotYT&theme=gruvbox" alt="1dotYT" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoJo3xe&theme=onedark" alt="GoJo3xe" /></p>  <h3 align="center">Social Links <img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px></h3>  
 <p align="center">  <a href="https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"  
